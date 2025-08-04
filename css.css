@@ -1,0 +1,42 @@
+body {
+    background-color: darkslategray;
+    color: #ffffff;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+h4 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.75em;
+}
+
+.blockquote-footer, input[type="text"] {
+    font-size: 1.5em;
+}
+
+.content {
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+input.form-control {
+    margin: 3px
+}
+
+.incorrect-answer {
+    border: 2px solid red;
+    border-right: 3px solid red;
+}
+
+input.form-control {
+    margin: 0px
+}
+
+h1.text-center {
+    margin-bottom: 1em;
+}
